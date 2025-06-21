@@ -2,7 +2,7 @@
 
 A powerful AI-powered Slack bot that helps you manage and interact with Kubernetes clusters directly from Slack. Built with LangGraph for intelligent conversation threads and MCP (Model Context Protocol) for robust Kubernetes operations.
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Slack](https://img.shields.io/badge/slack-bot-purple.svg)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-ready-blue.svg)
@@ -40,7 +40,7 @@ graph TD
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - Kubernetes cluster access
 - Slack workspace with bot permissions
 - OpenAI API key
