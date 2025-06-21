@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Config files with secrets
+config/secrets.*
+*.key
+*.pem
+
+# OS files
+.DS_Store
